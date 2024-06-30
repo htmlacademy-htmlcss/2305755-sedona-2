@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Виктория Бережная](https://up.htmlacademy.ru/htmlcss-individual/2/user/2305755).
-* Наставник: `Неизвестно`.
+* Наставник: [Михаил Данюшин](https://htmlacademy.ru/profile/id225742).
 
 ---
 
